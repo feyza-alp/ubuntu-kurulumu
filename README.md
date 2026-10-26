@@ -1,2 +1,2 @@
 # ubuntu-kurulumu
-Ubuntu kurulumu ve kurulum adımları
+Ubuntu kurulumu ekran görüntüsü
